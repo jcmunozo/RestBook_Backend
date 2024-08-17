@@ -27,7 +27,9 @@ DATABASE_PASSWORD=your_database_password
 ```
 mvn spring-boot:run
 ```
+
 Then you can check yout localhost:8080 and start using this API Rest.
+
 ---
 
 ## Swagger documentation
