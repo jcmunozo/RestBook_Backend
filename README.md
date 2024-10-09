@@ -31,7 +31,18 @@ mvn spring-boot:run
 Then you can check yout localhost:8080 and start using this API Rest.
 
 ---
+## using Docker
+
+- You need to have the .jar created, so run first:
+```
+mvn clean package
+```
+- then u can run the docker's images with this comand:
+```
+docker compose up
+```
+- At the beginning it may take a while, once the db image are build you can stop the procces with crtl+c and run agian docker compose up 
+---
 
 ## Swagger documentation
 ![Screenshot from 2024-08-17 12-45-10](https://github.com/user-attachments/assets/6edaa621-775f-4609-953c-6158e20ca333)
-
