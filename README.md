@@ -10,6 +10,7 @@ A basic API REST FULL created using java spring-boot, this API allows you to man
 - [Spring-Boot](https://spring.io/projects/spring-boot)
 - [Maven](https://mvnrepository.com/)
 - [Postgres](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
 
 ---
 
